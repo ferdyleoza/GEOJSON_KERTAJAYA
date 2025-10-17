@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Raya Padalarang",
+        "type": "main road",
+        "length": "2 km",
+        "description": "Jalan utama di Desa Kertajaya"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.48887250482935,
+            -6.836392269342519
+          ],
+          [
+            107.49405014400357,
+            -6.840058010784609
+          ],
+          [
+            107.49806393227837,
+            -6.844202857758507
+          ],
+          [
+            107.49707717179177,
+            -6.851264162449696
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Panaris",
+        "type": "residential",
+        "length": "0.5 km",
+        "description": "Jalan perumahan di RT 03 RW 06"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.48506953723994,
+            -6.842455356562739
+          ],
+          [
+            107.48882849937482,
+            -6.836465667537886
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Raya Purwakarta",
+        "type": "highway",
+        "length": "1.5 km",
+        "description": "Jalan menuju Purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.48493807770994,
+            -6.8429130635358515
+          ],
+          [
+            107.49544644659964,
+            -6.850338328393615
+          ],
+          [
+            107.49702677750537,
+            -6.851361319632745
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
